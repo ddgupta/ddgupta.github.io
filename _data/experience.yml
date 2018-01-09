@@ -1,19 +1,12 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+# Qlik
+- company: Qlik
+  position: Software Developer Co-op
+  duration: May 2017 &mdash; August 2017
+  summary: <ul class="resume-item-list"><li>Designed and implemented of components in an agile environment using test driven development approach. Used AngularJS, TypeScript.</li><li>Collaborated with other members of the team to make important design decision.</li><li>Fixed bugs, wrote component tests and e2e tests using tools like Protractor, Jasmine, Chai.</li></ul>
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+# Appzero
+- company: Appzero
+  position: Software Developer Co-op
+  duration:  January 2016 &mdash; December 2016
+  summary: <ul class="resume-item-list"><li>Was involved in a diverse range of projects. Made console and GUI application in C++ and C#.</li><li>Built web application in ASP .Net Core Framework. Used technologies like HTML, CSS, JQuery, Bootstrap, Visual Studio 2015, Hangfire. Worked with SQL Server 2016 and Express LocalDB databases.</li><li>Performed testing, including regression testing, of the AppZero products as well as investigation, troubleshooting and fixing of issues in the AppZero Controller.</li></ul>
