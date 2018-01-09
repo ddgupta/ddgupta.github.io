@@ -1,16 +1,35 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Timezone feature in OpenMCT, NASA
+- project: Timezone feature in OpenMCT, NASA
+  role: Contributor
+  duration: May 2017 &mdash; June 2017
+  url: "https://github.com/nasa/openmct/pull/1595"
+  description: <ul><li>Designed and implemented feature using AngularJS in OpenMCT, a next-generation mission control framework being developed by NASA.</li><li>My contribution includes designing and developing reusable autocomplete form control and use it to allow user to set timezone. Added appropriate unit tests.</li><b>URL:</b>&nbsp;<a href="https://github.com/nasa/openmct/pull/1595">https://github.com/nasa/openmct/pull/1595</a></ul>
+
+
+# AppZero Control Platform (ACP)
+- project: AppZero Control Platform (ACP)
+  role: Developer
+  duration: September 2016 &mdash; December 2016
   # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+  description: <ul><li>ACP is an ASP .NET Core web application that uses the AppZero Core API to help users monitor, migrate and maintain Windows Server applications.</li><li>I was involved with the project from its very beginning and learned ASP.Net Core from ground up to work on both front-end and back-end.</li><li>On the core library side, I built a C++ application to remotely install a service (AppZero Source Agent).</li><li>Added real-time feature using SignalR library to notify the users whether the remote installation was successful or not.</li></ul>
+  
+
+
+# SQL Server Config Migration
+- project: SQL Server Config Migration
+  role: Developer
+  duration: March 2016 &mdash; April 2016
+  # url: "#"
+  description: <ul><li>Demonstrated the Proof of Concept and wrote a detailed report about how the project can be successful.</li><li>Used Powershell and an open source tool called “dbatools” to migrate database, logins, credentials and other configurations from one version of SQL Server to another.</li><li>Using C#, designed GUI that handles the entire migration process and outputs errors, warnings and migration report.</li></ul>
+
+
+# Open Source Projects in Github
+- project: Open Source Projects in Github
+  #role: Contributor
+  #duration: March 2016 &mdash; April 2016
+  # url: "#"
+  description: <ul><li>Collaborator/Member in SQL Server Community Collaborative (sqlcollaborative). Performed bug fix, testing in various environments and reported issues in 'dbatools' project.<br /> <b>URL:</b>&nbsp;<a href="https://github.com/sqlcollaborative">https://github.com/sqlcollaborative</a></li><li>Performed testing, reported issues, and documentation fixes for Potaka project (a programming language in bengali for beginners to learn programming).<br /><b>URL:</b>&nbsp;<a href="https://github.com/ikrum/potaka">https://github.com/ikrum/potaka</a></li><li>Created to-arff, a ruby library/gem to easily convert SQLite database to ARFF file.<br /><b>URL:</b>&nbsp;<a href="https://github.com/dhrubomoy/to-arff">https://github.com/dhrubomoy/to-arff</a> and <a href="https://rubygems.org/gems/to-arff">https://rubygems.org/gems/to-arff</a></li></ul>
