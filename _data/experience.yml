@@ -3,7 +3,7 @@
 - company: Qlik
   position: Software Developer Co-op
   duration: May 2017 &mdash; August 2017
-  summary: <ul class="resume-item-list"><li>Designed and implemented of components in an agile environment using test driven development approach. Used AngularJS, TypeScript.</li><li>Collaborated with other members of the team to make important design decision.</li><li>Fixed bugs, wrote component tests and e2e tests using tools like Protractor, Jasmine, Chai.</li></ul>
+  summary: <ul class="resume-item-list"><li>Designed and implemented components in an agile environment using test driven development approach. Used AngularJS, TypeScript.</li><li>Collaborated with other members of the team to make important design decision.</li><li>Fixed bugs, wrote component tests and e2e tests using tools like Protractor, Jasmine, Chai.</li></ul>
 
 # Appzero
 - company: Appzero
